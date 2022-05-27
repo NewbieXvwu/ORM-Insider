@@ -1,13 +1,13 @@
-# ORM-Insider
+# OfflineInsiderEnroll
 
-![Screenshot of ORM-Insider](https://i.imgur.com/F9Hxl9a.png)
+![Screenshot of OfflineInsiderEnroll](https://i.imgur.com/F9Hxl9a.png)
 
 ## Description
 
-ORM-Insider is a simple Windows Command Prompt script to enable access
+OfflineInsiderEnroll is a simple Windows Command Prompt script to enable access
 to the Windows Insider Program on machines not signed in with Microsoft Account.
 
-This script is compatible only with Windows 11 or Windows 10 version 20H2 and later.
+This script is compatible only with Windows 11 or Windows 10 version 1809 and later.
 
 ## Usage
 
@@ -16,8 +16,7 @@ by right clicking it > `Run as Administrator`.
 
 ### Installation and configuration changes
 
-After starting, the script offers selection of __*Windows Insider Program*__ channels
-and __*Disable/Enable compatibility check*__.
+After starting, the script offers selection of __*Windows Insider Program*__ channels.
 To make a selection, press a letter coresponding to option you choose and press
 ENTER.
 
@@ -44,7 +43,7 @@ __Windows 10__: *`Settings`* > *`Privacy`* > *`Diagnostics & Feedback`*
 ### Restoring Windows Insider Program to default options
 
 To restore *`Windows Insider Program`* to default settings simply choose `Stop
-receiving Insider Preview builds` in `ORM-Insider Script`. You will get prompted
+receiving Insider Preview builds` in `OfflineInsiderEnroll Script`. You will get prompted
 to reboot, because this option will disable *`Microsoft Flight Signing`*.
 
 ## How does this work?
